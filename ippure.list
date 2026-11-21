@@ -1,0 +1,10 @@
+# ippure.com — IP 纯净度检测相关域名（走代理）
+# 规则集不含策略列，策略在引用处指定
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,cf.999831.xyz
+DOMAIN-SUFFIX,123169.xyz
+DOMAIN-SUFFIX,fpjs.dev
+DOMAIN-SUFFIX,openfpcdn.io
