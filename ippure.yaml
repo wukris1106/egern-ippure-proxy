@@ -1,0 +1,10 @@
+# ippure.com — IP 纯净度检测相关域名（Egern 原生 YAML 规则集，无策略）
+domain_suffix_set:
+  - ippure.com
+  - ipinfo.io
+  - ipip.net
+  - ipapi.co
+  - cf.999831.xyz
+  - 123169.xyz
+  - fpjs.dev
+  - openfpcdn.io
