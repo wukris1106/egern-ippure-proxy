@@ -1,11 +1,20 @@
 # ippure.com — IP 纯净度检测相关域名（Egern 原生规则集，不含策略）
+# 同时给出带点/不带点两种后缀写法，兼容不同版本的匹配实现
 no_resolve: true
 domain_suffix_set:
   - ippure.com
+  - .ippure.com
   - ipinfo.io
+  - .ipinfo.io
   - ipip.net
+  - .ipip.net
   - ipapi.co
+  - .ipapi.co
   - cf.999831.xyz
+  - .cf.999831.xyz
   - 123169.xyz
+  - .123169.xyz
   - fpjs.dev
+  - .fpjs.dev
   - openfpcdn.io
+  - .openfpcdn.io
