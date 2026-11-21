@@ -1,4 +1,5 @@
-# ippure.com — IP 纯净度检测相关域名（Egern 原生 YAML 规则集，无策略）
+# ippure.com — IP 纯净度检测相关域名（Egern 原生规则集，不含策略）
+no_resolve: true
 domain_suffix_set:
   - ippure.com
   - ipinfo.io
