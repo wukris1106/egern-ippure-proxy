@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ippure.com",
+        "ipinfo.io",
+        "ipip.net",
+        "ipapi.co",
+        "cf.999831.xyz",
+        "123169.xyz",
+        "fpjs.dev",
+        "openfpcdn.io"
+      ]
+    }
+  ]
+}
